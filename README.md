@@ -1,5 +1,7 @@
 # coding-test
 
+Please spend nothing more than 2 hours on this test.
+
 ## Test Brief:
 
 In this coding test, you must develop a small backend system using Java 8/11 that serves a hypothetical online bookstore. The system will have two types of users, customers and administrators.
